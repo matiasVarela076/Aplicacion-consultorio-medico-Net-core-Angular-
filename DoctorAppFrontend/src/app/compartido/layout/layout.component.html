@@ -1,0 +1,35 @@
+<mat-toolbar color="primary">
+    <span>Doctor App</span>
+    <button mat-icon-button (click)="sidenav.toggle()">
+        <mat-icon>menu</mat-icon>
+    </button>
+
+    <span style="flex: 1 1 auto;;"></span>
+    <label style="font-size: 14px; margin-right: 20px;"> {{username || 'Invitado'}}</label>
+    <button mat-icon-button (click)="cerrarSesion()">
+        <mat-icon>logout</mat-icon>
+    </button>
+</mat-toolbar>
+
+<mat-sidenav-container>
+    <mat-sidenav #sidenav="matSidenav" mode="side" opened="true" style="width: 220px; background: black;">
+        <mat-nav-list>
+            <mat-list-item routerLink="dashboard">
+                <mat-icon matListItemIcon style="color: white;">dashboard</mat-icon>
+                <div matListTitle style="color: white;">dashboard</div>
+            </mat-list-item>
+            <mat-list-item routerLink="/layout/especialidades">
+                <mat-icon matListItemIcon style="color: white;">category</mat-icon>
+                <div matListTitle style="color: white;">Especialidades</div>
+            </mat-list-item>
+        </mat-nav-list>
+    </mat-sidenav>
+
+    <mat-sidenav-content>
+        <div style="height: 90vh; padding: 20px;">
+            <router-outlet></router-outlet>
+            <!--aca se renderizara el componente que se le indique en el app-routing.module.ts -->
+        </div>
+    </mat-sidenav-content>
+
+</mat-sidenav-container>

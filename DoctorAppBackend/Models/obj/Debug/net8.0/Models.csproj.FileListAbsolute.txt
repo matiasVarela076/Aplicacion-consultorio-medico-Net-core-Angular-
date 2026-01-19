@@ -1,0 +1,12 @@
+G:\DoctorApp\DoctorAppBackend\Models\bin\Debug\net8.0\Models.deps.json
+G:\DoctorApp\DoctorAppBackend\Models\bin\Debug\net8.0\Models.dll
+G:\DoctorApp\DoctorAppBackend\Models\bin\Debug\net8.0\Models.pdb
+G:\DoctorApp\DoctorAppBackend\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+G:\DoctorApp\DoctorAppBackend\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+G:\DoctorApp\DoctorAppBackend\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+G:\DoctorApp\DoctorAppBackend\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+G:\DoctorApp\DoctorAppBackend\Models\obj\Debug\net8.0\Models.dll
+G:\DoctorApp\DoctorAppBackend\Models\obj\Debug\net8.0\refint\Models.dll
+G:\DoctorApp\DoctorAppBackend\Models\obj\Debug\net8.0\Models.pdb
+G:\DoctorApp\DoctorAppBackend\Models\obj\Debug\net8.0\ref\Models.dll
+G:\DoctorApp\DoctorAppBackend\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache
