@@ -153,3 +153,4 @@ G:\DoctorApp\DoctorAppBackend\Api\bin\Debug\net8.0\BLL.dll
 G:\DoctorApp\DoctorAppBackend\Api\bin\Debug\net8.0\Utilidades.dll
 G:\DoctorApp\DoctorAppBackend\Api\bin\Debug\net8.0\BLL.pdb
 G:\DoctorApp\DoctorAppBackend\Api\bin\Debug\net8.0\Utilidades.pdb
+G:\DoctorApp\DoctorAppBackend\Api\obj\Debug\net8.0\Api.sourcelink.json
